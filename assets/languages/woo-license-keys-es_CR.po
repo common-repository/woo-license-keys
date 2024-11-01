@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce License Keys\n"
+"POT-Creation-Date: 2018-05-22 22:00-0600\n"
+"PO-Revision-Date: 2020-08-16 22:00-0600\n"
+"Last-Translator: \n"
+"Language-Team: 10 Quality <info@10quality.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "License Keys:"
+msgstr "Claves de licencia:"
+
+msgid "License Keys"
+msgstr "Claves de licencia"
+
+msgid "License Key"
+msgstr "Clave de licencia"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Activations"
+msgstr "Activaciones"
+
+msgid "Expired on %s"
+msgstr "Caducado en %s"
+
+msgid "Expires on %s"
+msgstr "Caduca en %s"
+
+msgid "%d of %d"
+msgstr "%d de %d"
+
+msgid "No license keys purchased yet."
+msgstr "No se han comprado claves de licencia."
+
+msgid "License Key Code"
+msgstr "Código clave de licencia"
+
+msgid "Limit"
+msgstr "Límite"
+
+msgid "Limit the amount of activations."
+msgstr "Limita la cantidad de activaciones."
+
+msgid "Limit the amount of domains."
+msgstr "Limita la cantidad de dominios."
+
+msgid "Current status: %d of %d"
+msgstr "Estado actual: %d de %d"
+
+msgid "Development"
+msgstr "Desarrollo"
+
+msgid "Development environments (http://localhost) will count as valid activations and will increase limit capacity."
+msgstr "Los entornos de desarrollo (http://localhost) contarán como activaciones válidas y aumentarán la capacidad límite."
+
+msgid "Development environments (http://localhost) will not increase the limit capacity."
+msgstr "Los entornos de desarrollo (http://localhost) no aumentarán la capacidad límite."
+
+msgid "Activation date"
+msgstr "Fecha de activación"
+
+msgid "Domain"
+msgstr "Dominio"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Deactivate"
+msgstr "Desactivar"
+
+msgid "No activations for this license key yet."
+msgstr "No hay activaciones para esta clave de licencia todavía."
+
+msgid "Expiration"
+msgstr "Vencimiento"
+
+msgid "Lasts for %d %s."
+msgstr "Dura %d %s."
+
+msgid "Never. (Lifetime license)"
+msgstr "Nunca. (Licencia de por vida)"
+
+msgid "Limited in the number of activations. "
+msgstr "Limitado en el número de activaciones. "
+
+msgid "Up to %d %s."
+msgstr "Hasta %d %s."
+
+msgid "Limited in the number of domains activated. "
+msgstr "Limitado en el número de dominios activados. "
+
+msgid "Unlimited uses and activations."
+msgstr "Usos y activaciones ilimitados."
+
+msgid "Developers support. Development environments (running on localhost) do not increase limit capacity, allowing this license to be used on production and development."
+msgstr "Soporte a desarrolladores. Los entornos de desarrollo (que se ejecutan en localhost) no aumentan la capacidad límite, lo que permite que esta licencia se use en producción y desarrollo."
+
+msgid "Extended option."
+msgstr "Opción extendida."
+
+msgid "Enable this feature"
+msgstr "Habilitar esta característica"
+
+msgid "Manage license keys"
+msgstr "Administrar claves de licencia"
+
+msgid "<strong>WooCommerce License Keys:</strong> requires <strong>WooCommerce</strong> plugin to be activated in order to function."
+msgstr "requiere que el complemento <strong>WooCommerce</strong> se encuentre activado para funcionar."
+
+msgid "Expire"
+msgstr "Caduca"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+msgid "Expires"
+msgstr "Vence"
+
+msgid "Leave unchecked if you want this to be a lifetime license, otherwise check this option."
+msgstr "Deje sin marcar si desea que esta sea una licencia de por vida; de lo contrario, marque esta opción."
+
+msgid "Expire interval"
+msgstr "Intervalo de vencimiento"
+
+msgid "Days"
+msgstr "Días"
+
+msgid "Months"
+msgstr "Meses"
+
+msgid "Years"
+msgstr "Años"
+
+msgid "days"
+msgstr "días"
+
+msgid "months"
+msgstr "meses"
+
+msgid "years"
+msgstr "años"
+
+msgid "Interval in time in which the license will expire."
+msgstr "Intervalo en el tiempo en el que caducará la licencia."
+
+msgid "Expire value"
+msgstr "Valor de vencimiento"
+
+msgid "Value in which the license will expire, this is heavily linked to the interval."
+msgstr "Valor en el que caducará la licencia, esto está estrechamente relacionado con el intervalo."
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "Activation ID:%d has been deactivated."
+msgstr "ID de activación:%d ha sido desactivado."
+
+msgid "API Settings"
+msgstr "Configuración de API"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "License Details"
+msgstr "Detalles de licencia"
+
+msgid "License Keys API"
+msgstr "API de claves de licencia"
+
+msgid "Customer notifications"
+msgstr "Notificaciones al consumidor"
+
+msgid "Add notification"
+msgstr "Agregar notificación"
+
+msgid "Premium features"
+msgstr "Características premium"
+
+msgid "License key(s) %s have been set as expired."
+msgstr "La(s) clave(s) de licencia %s se han establecido como caducadas."
+
+msgid "The store code acts as a KEY to validate each request done to the API. The code for this store is:"
+msgstr "El código de tienda actúa como una LLAVE para validar cada solicitud hecha a la API. El código para esta tienda es:"
+
+msgid "Implementation"
+msgstr "Implementación"
+
+msgid "Ways to implement the API:"
+msgstr "Formas de implementar la API:"
+
+msgid "Store Code"
+msgstr "Código de tienda (Store Code)"
+
+msgid "Wordpress MVC addon"
+msgstr "Addon para Wordpress MVC"
+
+msgid "We offer an <i>add-on</i> for %s. This addon will integrate the API easily with your WordPress project."
+msgstr "Ofrecemos un <i>add-on</i> para %s. Este complemento integrará la API fácilmente con su proyecto de WordPress. (En inglés)"
+
+msgid "PHP client"
+msgstr "Cliente para PHP"
+
+msgid "We offer a PHP client library (see on %s) that can be used to integrate the API with any PHP project."
+msgstr "Ofrecemos una biblioteca cliente PHP (ver en %s) que se puede usar para integrar la API con cualquier proyecto PHP. (En inglés)"
+
+msgid "Documentation"
+msgstr "Documentación"
+
+msgid "If working with something other than PHP. Follow the documentation and call the API using standard HTTP requests."
+msgstr "Si trabaja con algo que no sea PHP. Siga la documentación y llame a la API utilizando solicitudes HTTP estándar."
+
+msgid "Your API's base url"
+msgstr "URL base de tu API"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Store code"
+msgstr "Código de tienda (Store code)"
+
+msgid "Responses"
+msgstr "Respuestas"
+
+msgid "Desktop software"
+msgstr "Software de escritorio"
+
+msgid "Check this option if the license key is going to be used by desktop software, making the API to bypass any domain validation."
+msgstr "Marque esta opción si la clave de licencia será utilizada por un software de escritorio (Desktop), haciendo que la API omita cualquier validación de dominio."
+
+msgid "HTTP Headers"
+msgstr "Encabezados de HTTP"
+
+msgid "Enable override"
+msgstr "Habilitar sobre escritura"
+
+msgid "Check this option to override Wordpress default headers with the ones below"
+msgstr "Marque esta opción para sobre escribir los encabezados predeterminados de Wordpress por los siguientes"
+
+msgid "Only effective during API calls (non REST handler); this option is useful if you want to have control over %s."
+msgstr "Sólo es efectivo durante las llamadas a la API (sin controlador REST); esta opción es útil si desea tener control sobre %s."
+
+msgid "Allow Origin"
+msgstr "Permitir Origen"
+
+msgid "Value for \"%s\"."
+msgstr "Valor para encabezado \"%s\"."
+
+msgid "Allow Credentials"
+msgstr "Permitir Credenciales"
+
+msgid "True"
+msgstr "Si"
+
+msgid "False"
+msgstr "No"
+
+msgid "-None-"
+msgstr "-Ninguna-"
+
+msgid "Allow Methods"
+msgstr "Permitir Métodos"
+
+msgid "DOCUMENTATION"
+msgstr "DOCUMENTACION"
+
+msgid "API Response"
+msgstr "Respuesta API"
+
+msgid "Errors output"
+msgstr "Salida de errores"
+
+msgid "Grouped by property name."
+msgstr "Agrupados por nombre de propiedad."
+
+msgid "Associated to an error code."
+msgstr "Asociado a un código de error."
+
+msgid "Indicates how should errors be returned in API responses."
+msgstr "Indica cómo deben devolverse los errores en las respuestas de la API."
+
+msgid "License Key activated successfully."
+msgstr "Clave de licencia activada con éxito."
+
+msgid "License Key is valid."
+msgstr "La clave de licencia es válida."
+
+msgid "Activation has been deactivated."
+msgstr "La activación ha sido desactivada."
+
+msgid "Invalid code."
+msgstr "Código inválido."
+
+msgid "Invalid license key."
+msgstr "Clave de licencia inválida."
+
+msgid "Required."
+msgstr "Requerido."
+
+msgid "License key has expired."
+msgstr "La clave de licencia ha caducado."
+
+msgid "License key activation limit reached. Deactivate one of the registered activations to proceed."
+msgstr "Límite de activación de la clave de licencia alcanzado. Desactiva una de las activaciones registradas para proceder."
+
+msgid "License key domain activation limit reached. Deactivate one or more of the registered activations to proceed."
+msgstr "Límite de activación del dominio de clave de licencia alcanzado. Desactive una o más de las activaciones registradas para continuar."
+
+msgid "day"
+msgstr "día"
+
+msgid "month"
+msgstr "mes"
+
+msgid "year"
+msgstr "año"
+
+msgid "activation allowed"
+msgstr "activación permitida"
+
+msgid "activations allowed"
+msgstr "activaciones permitidas"
+
+msgid "domain allowed"
+msgstr "dominio permitido"
+
+msgid "domains allowed"
+msgstr "dominios permitidos"
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "API Handler"
+msgstr "Manejador de la API"
+
+msgid "WP Ajax"
+msgstr "WP Ajax"
+
+msgid "Wordpress REST API"
+msgstr "Wordpress REST API"
+
+msgid "Identifies who will handle and process your API calls."
+msgstr "Identifica quién manejará y procesará sus llamadas a la API."
+
+msgid "Invalid validator response."
+msgstr "Respuesta del validador no válida."
+
+msgid "The following examples are using the \"WP Ajax\" handler:"
+msgstr "Los siguientes ejemplos están utilizando el manejador \"WP Ajax\":"
+
+msgid "API Validations"
+msgstr "Validaciones API"
+
+msgid "Enable SKU validation"
+msgstr "Habilitar validación de SKU"
+
+msgid "Enable SKU validations (SKU required parameter and SKU cross-check) during API calls."
+msgstr "Habilitar las validaciones de SKU (parámetro requerido y verificación cruzada) durante las llamadas a la API."
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "No"
+msgstr "No"
+
+msgid "Enable domain validation"
+msgstr "Habilitar validación de dominio"
+
+msgid "Enable domain validations during API calls (only affects non-desktop products)."
+msgstr "Habilitar las validaciones de dominio durante las llamadas a la API (solo afecta a productos que no sean de escritorio)."
+
+msgid "Visit the official <a href=\"%s\">documentation</a>."
+msgstr "Visite la <a href=\"%s\">documentación oficial</a>. (En inglés)"
+
+msgid "Do not auto-generate codes"
+msgstr "No genere códigos automáticamente"
+
+msgid "Include user email"
+msgstr "Incluir el email del usuario"
+
+msgid "Includes the user's email in the API response."
+msgstr "Incluye el correo electrónico del usuario en la respuesta de la API."
+
+msgid "Include product name"
+msgstr "Incluir el nombre del producto"
+
+msgid "Includes the product's name in the API response."
+msgstr "Incluye el nombre del producto en la respuesta de la API."
+
+msgid "Include product SKU"
+msgstr "Incluir SKU del producto"
+
+msgid "Includes the product's SKU in the API response."
+msgstr "Incluye el SKU del producto en la respuesta de la API."
